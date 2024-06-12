@@ -13,14 +13,46 @@ By completing this reflection, you will gain a clearer understanding of your car
 - Name: Jaime Gabriels
 - Date: 2024-06-12
 - Current Role/Position: Student 
-- *ield of Interest: Web Developement 
+- Field of Interest: Web Development. 
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+      
+  Analytical Skills include; 
+        Critical Thinking: Applying logic and reasoning to identify strengths and weaknesses of alternative solutions or               approaches to problems, 
+        Attention to Detail: Examining evidence meticulously to ensure precision and accuracy in analysis, 
+        Problem-Solving: Identifying complex problems and reviewing related information to develop and evaluate options and   
+        implement solutions.
+
+ Laboratory Techniques
+      DNA Analysis: Extracting, amplifying, and analyzing DNA from biological samples using PCR and other techniques.
+      Chemical Analysis: Conducting qualitative and quantitative analysis of substances using chromatography, spectrometry, 
+      and other methods.
+ Microscopy: Using various types of microscopes for detailed examination of samples and evidence.
+
+Scientific Research
+    Method Development: Designing and validating new forensic methods and protocols.
+    Literature Review: Conducting thorough reviews of scientific literature to stay current with advancements in forensic          science.
+    Hypothesis Testing: Developing and testing hypotheses through experimental research.
+    
+Legal Knowledge
+    Expert Testimony: Presenting forensic findings in court and explaining complex scientific concepts to judges and juries.
+    Regulations and Standards: Understanding legal and regulatory standards governing forensic practices and procedures.
+    Report Writing: Preparing clear, detailed, and objective reports that can be used in legal proceedings.
+    Interpersonal Skills
+
+Communication: 
+    Interpersonal Skills.
+    Effectively communicating findings and technical information to law enforcement, attorneys, and other stakeholders.
+    Collaboration: Working with multidisciplinary teams including law enforcement, legal professionals, and other scientists.
+    Ethics and Confidentiality: Upholding ethical standards and ensuring the confidentiality of sensitive information.
+    
+          - Identify skills you need to develop or improve.
+          
+    - 
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
